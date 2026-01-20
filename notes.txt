@@ -1,0 +1,2 @@
+This is a new note for my chem169-git repository.
+Another line of important information.
